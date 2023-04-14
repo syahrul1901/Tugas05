@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Miftah Yuzar A (2006035) 
+Syahrul Yanuar(2006088) 
 
 ## Getting Started
 
